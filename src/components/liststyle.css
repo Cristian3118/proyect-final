@@ -1,0 +1,12 @@
+.list{
+    width: 18rem;
+    background-color: rgb(0, 0, 0);
+    
+
+}
+.listado{
+    display: inline-block;
+    background-color: aqua;
+    margin: 7px;
+    
+}
